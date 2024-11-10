@@ -2,10 +2,10 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Furcreator.github.io/mds",
+  "homepage": "https://mdstg.site/",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /mds/"
+    "build": "parcel build src/*.html --public-url /mdstg.site/"
   },
   "repository": {
     "type": "git",
