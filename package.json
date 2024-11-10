@@ -2,20 +2,20 @@
   "name": "parcel-project-template",
   "version": "2.0.0",
   "description": "",
-  "homepage": "https://Furcreator.github.io/MDS-Prokladka",
+  "homepage": "https://Furcreator.github.io/mds",
   "scripts": {
     "start": "parcel src/*.html",
-    "build": "parcel build src/*.html --public-url /MDS-Prokladka/"
+    "build": "parcel build src/*.html --public-url /mds/"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Furcreator/MDS-Prokladka.git"
+    "url": "git+https://github.com/Furcreator/mds.git"
   },
   "keywords": [],
   "author": "Alexander Repeta <alexander.repeta@gmail.com>",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Furcreator/MDS-Prokladka/issues"
+    "url": "https://github.com/Furcreator/mds/issues"
   },
   "dependencies": {
     "modern-normalize": "^1.1.0"
