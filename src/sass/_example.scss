@@ -35,12 +35,9 @@ body {
 
     color: #fff;
     display: flex;
-    align-items: center; // Центрирование по вертикали
-    gap: 8px;
   }
   &__icon {
-    height: 34;
-    vertical-align: top;
+    height: 60px;
   }
 
   &__button {
@@ -67,8 +64,8 @@ main {
   transition: all 0.15s ease 0.15s;
 
   .logo {
-    width: 100px;
-    height: 100px;
+    width: 110px;
+    height: 110px;
     border-radius: 50%;
     margin-bottom: 15px;
   }
@@ -219,4 +216,12 @@ main {
 .action-btn,
 .header__button a {
   pointer-events: auto;
+}
+
+.link {
+  text-decoration: none;
+  color: #7d7f81;
+}
+.link-wht {
+  text-decoration: none;
 }
